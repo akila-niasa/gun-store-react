@@ -1,0 +1,9 @@
+.modals{
+    background-color: rgba(63, 61, 61, 0.459);
+    display: flex;
+    justify-content: center;
+}
+.modals img{
+    height: 30px;
+    width: 30px;
+}
